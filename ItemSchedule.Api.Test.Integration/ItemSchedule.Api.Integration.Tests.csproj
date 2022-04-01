@@ -6,7 +6,7 @@
 
         <IsPackable>false</IsPackable>
 
-        <RootNamespace>HeidelbergCement.CaseStudies.Concurrency.Api.Test</RootNamespace>
+        <RootNamespace>ItemSchedule.Api.Test</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
